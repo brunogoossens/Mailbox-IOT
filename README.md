@@ -17,3 +17,7 @@ This is a nodeMCU based tool to get notified by email when your get new mail.
 ## Reed sensor
 
 Use a reed sensor and connect it to D1 and GND.
+
+## Config
+
+You must change the config settings in src/init.ino 
