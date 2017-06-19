@@ -16,7 +16,7 @@ This is a nodeMCU based tool to get notified by email when your get new mail.
 
 ## Reed sensor
 
-Use a reed sensor and connect it to D1 and GND.
+Use a reed sensor and connect it to D1 (GPIO5) and GND.
 
 ## Config
 
