@@ -7,7 +7,7 @@ const char* password      = ""; // wifi password
 
 // Mailgun
 String apiHost            = ""; // api.mailgun.net/v3/sandbox--XXX--.mailgun.org
-String apiHostFingerprint = ""; // 1B F5 6D 84 C6 76 9B 01 68 BA 9C 64 EB D5 49 F5 F0 F0 3D 8A // sha1 fingerpirnt form host api.mailgun.net
+String apiHostFingerprint = ""; // 1B F5 6D 84 C6 76 9B 01 68 BA 9C 64 EB D5 49 F5 F0 F0 3D 8A // sha1 fingerprint for host api.mailgun.net
 String apiName            = ""; // api
 String apiKey             = ""; // key-XX
 String from               = ""; // must be url encoded like test%40gmail.com
